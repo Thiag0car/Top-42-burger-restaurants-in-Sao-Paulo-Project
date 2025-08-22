@@ -34,3 +34,6 @@ Basta clonar este repositório, abrir o notebook hamburguer.ipynb e executar um 
 Ao rodar o notebook, o código gera um arquivo Excel contendo todas as 42 melhores hamburguerias de São Paulo, com informações completas e ordenadas de acordo com a distância em relação ao endereço informado. Todas as informações estão tabeladas, facilitando a visualização e ajudando você a decidir qual hamburgueria visitar.
 
 <img  align= "center" src="pics/tabela_hamburguerias.png" width="100%" >
+
+Caso não queira rodar nenhum código, também é possível acessar o arquivo tabela_infos_restaurante.xlsx
+, que contém endereço, preço, Instagram e ranking de cada restaurante. Esse arquivo não inclui distância, tempo de deslocamento, nem indica se há outra unidade da mesma rede mais próxima, e os dados também não estão ordenados.
